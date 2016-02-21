@@ -5,7 +5,7 @@
 Ein Stubenhocker ist laut [Wiktionary](https://de.wiktionary.org/wiki/Stubenhocker)
 > *"eine Person, die sich vom sozialen Leben abkapselt bzw. ihr soziales Umfeld auf einen minimalen Raum beschränkt; eine Person, die ihre Stube nicht verlassen und ihre Ruhe haben will"*
 
-Um diesem Klischee voll und ganz entsprechen zu können, benötigt der Stubenhocker leider genügend Material auf der Stube, sonst wird es schnell langweilig. Genau hier kommt diese Sammlung ins Spiel: Es gibt einfach viel zu wenig gut aufbereitete Linklisten zu **deutschen** Inhalten. Dies soll mein ganz persönlicher Ansatz dafür sein. 
+Um diesem Klischee voll und ganz entsprechen zu können, benötigt der Stubenhocker leider genügend Material auf der Stube, sonst wird es schnell langweilig. Genau hier kommt diese Sammlung ins Spiel: Es gibt einfach viel zu wenig gut aufbereitete Linklisten zu **deutschen** Inhalten (Wer des Englischen mächtig ist, sollte sich diesbezüglich die [awesome](https://github.com/sindresorhus/awesome)-Listen ansehen). Dies soll mein ganz persönlicher Ansatz dafür sein.
 
 ## Warum dafür ein Repository?
 Eine Versionsverwaltung ist bei Texten dieser Art ein eindeutiges Plus. Links werden ungültig, andere Leute möchten gern etwas beitragen oder irgendwelche Probleme tauchen auf - ein Git-Repo deckt dies weitestgehend ab.
